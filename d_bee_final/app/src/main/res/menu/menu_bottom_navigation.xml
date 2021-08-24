@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_home_page"
+        android:icon="@drawable/ic_home_page_svg"
+        android:title="@string/home_page" />
+    <item
+        android:id="@+id/menu_q_and_a"
+        android:icon="@drawable/ic_question_answer_svg"
+        android:title="@string/q_and_a" />
+    <item
+        android:id="@+id/menu_structure"
+        android:icon="@drawable/ic_structure_svg"
+        android:title="@string/structure" />
+    <item
+        android:id="@+id/menu_mine"
+        android:icon="@drawable/ic_mine_svg"
+        android:title="@string/mine" />
+</menu>
